@@ -14,7 +14,7 @@ fun Odd(){
     }
 }
 fun LNames(name1:String,name2:String,num3:String):Int {
-    var x = arrayOf("Chantal", "Emma", "Peter")
+    var x = arrayOf("Chantal", "Niyonkuru", "JeanPierre")
     for (name in x) {
         if (name.length > 5) {
             return x.count()
